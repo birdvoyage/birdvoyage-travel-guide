@@ -1,0 +1,13 @@
+site_name: Birdvoyage Travel Guide
+site_description: Guide to finding cheap flights and business class flight deals from the UK
+site_url: https://birdvoyage.co.uk/
+
+nav:
+  - Home: index.md
+  - Cheap Flights from UK: cheap-flights-from-uk.md
+  - Business Class Flights: business-class-flights.md
+  - Flight Deal Tips: flight-deals-tips.md
+  - International Travel Guide: international-travel-guide.md
+
+theme:
+  name: readthedocs
